@@ -26,6 +26,7 @@ class TestActivity : AppCompatActivity() {
 
             override fun onProgressChanged(seekBar: SeekBar?, progress: Int, fromUser: Boolean) {
               range.text= progress.toString()
+                Toast.makeText(this@TestActivity, "", Toast.LENGTH_SHORT).show()
             }
 
             override fun onStartTrackingTouch(seekBar: SeekBar?) {}
