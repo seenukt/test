@@ -1,0 +1,21 @@
+
+w
+Gapp/src/main/java/com/example/edittextforcurrency/test/PagingAdapter.kt,2/4/2470a2ee5d63b6e658e50aee3bf9141c6ea0829a
+t
+Dapp/src/main/java/com/example/edittextforcurrency/CorotienManager.kt,a/a/aa13fd65982404ddef275cfe91e01e1d5965142f
+t
+Dapp/src/main/java/com/example/edittextforcurrency/repo/PagingRepo.kt,8/b/8b7d046c09f8b8078bc9c3689825d916fe3a487f
+r
+Bapp/src/main/java/com/example/edittextforcurrency/MainViewModel.kt,9/a/9a6e69266c45dbc616e10572994546a9a12aa357
+}
+Mapp/src/main/java/com/example/edittextforcurrency/test/ExamplePagingSource.kt,8/a/8a57ac6b0a09be9091140dbe186d28c7a96c3c13
+k
+;app/src/main/java/com/example/edittextforcurrency/FIlter.kt,3/c/3cc1fa0d42769be5a5543ab2a841ba0457794d3b
+q
+Aapp/src/main/java/com/example/edittextforcurrency/MainActivity.kt,c/3/c329a5ccd4cf1d71fe00ce78514989d826dcc0a1
+q
+Aapp/src/main/java/com/example/edittextforcurrency/ApiInterFace.kt,4/a/4a59b9ad1f4f94c0bbad4a64a66853c0969e1c43
+P
+ app/src/main/AndroidManifest.xml,8/c/8c55c3ccc257e5907959013f99656e4c8ec3903e
+q
+Aapp/src/main/java/com/example/edittextforcurrency/TestActivity.kt,b/3/b3aa3f39fa7be4290e9de832688e006ac51b3079
